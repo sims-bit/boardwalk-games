@@ -35,3 +35,12 @@ h1, h2, h3 {
   background-color: lightgrey;
 }
   */
+
+/*Navbar*/
+#navbar {
+  background-color: var(--primary-color);
+}
+
+#navbar .logo {
+  width: 30px; 
+}
