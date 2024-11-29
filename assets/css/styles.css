@@ -19,6 +19,9 @@ body {
 h1, h2, h3 {
   font-family: var(--secondary-font);
   color: var(--primary-color); 
+}
+
+h1, h2 {
   text-transform: uppercase;
 }
 
@@ -29,6 +32,21 @@ h1, h2, h3 {
 .section {
   margin-top: 2rem;
   margin-bottom: 2rem;
+}
+
+h2 {
+  margin-bottom: 2rem; 
+}
+
+/*Services*/
+#services .cardfooter {
+  font-weight: bold;
+  color: var(--highlight-color);
+  background-color: transparent; 
+}
+
+#services .card {
+  margin-bottom: 1.5rem;
 }
 
 /*grid visualisation css for testing
@@ -55,3 +73,5 @@ h1, h2, h3 {
 #header .lead {
   font-family: var(--secondary-font);
 }
+
+
