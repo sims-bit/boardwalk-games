@@ -25,7 +25,7 @@ h1, h2, h3 {
   color: var(--highlight-color);
 }
 
-/*grid visualisation css for testing*/
+/*grid visualisation css for testing
 .container, .row {
   border: 2px solid black; 
 }
@@ -34,3 +34,4 @@ h1, h2, h3 {
   border: 2px solid white; 
   background-color: lightgrey;
 }
+  */
